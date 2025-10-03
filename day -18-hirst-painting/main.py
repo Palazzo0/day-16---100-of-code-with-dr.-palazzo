@@ -44,28 +44,3 @@ draw_spirograph(5)
 
 
 
-def draw_dotted_line(start_x, start_y, length, dot_spacing):
-    jack.penup()
-    jack.goto(start_x, start_y)
-    for _ in range(length // (2 * dot_spacing)):
-        jack.dot(20, random.choice(color_palette))  # Draw a dot
-        jack.penup()
-        jack.forward(dot_spacing)
-
-
-# Draw stacked parallel dotted lines
-start_x = -200
-start_y = -150
-line_length = 1000
-dot_spacing =50
-line_spacing = 50
-
-for i in range(10):  # Number of lines
-    draw_dotted_line(start_x, start_y + i * line_spacing, line_length, dot_spacing)
-
-
-
-
-screen = Screen()
-# screen.setup(startx=0)
-screen.exitonclick()

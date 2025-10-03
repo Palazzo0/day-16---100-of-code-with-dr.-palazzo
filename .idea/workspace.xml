@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4452681-0eca-40cd-8320-7f4f89af1e89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day -18-hirst-painting/hirst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day -18-hirst-painting/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-19/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-19/turtle_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 20/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 20/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 20/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 20/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 22-pong/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 22-pong/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 22-pong/paddles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 22-pong/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 23/cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 23/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 23/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 23/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 25/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mini calculator/.idea/mini calculator.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mini calculator/art.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mini calculator/calculator.py" afterDir="false" />
@@ -2196,8 +2205,9 @@
       <change beforePath="$PROJECT_DIR$/../WID JS CLASS/src/input.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WID JS CLASS/src/output.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WID JS CLASS/tailwind.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day -18-hirst-painting/hirst.py" beforeDir="false" afterPath="$PROJECT_DIR$/day -18-hirst-painting/hirst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day -18-hirst-painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day -18-hirst-painting/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js day7/day7.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../js day7/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../js day8/todo.css" beforeDir="false" />
@@ -4529,6 +4539,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -4541,11 +4552,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.food.executor&quot;: &quot;Run&quot;,
     &quot;Python.hirst.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.main_quiz.executor&quot;: &quot;Run&quot;,
     &quot;Python.oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paddles.executor&quot;: &quot;Run&quot;,
     &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
     &quot;Python.turtle_race.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
